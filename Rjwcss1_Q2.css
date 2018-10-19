@@ -1,0 +1,34 @@
+body {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+}
+
+aside {
+        background-color: pink;
+        float: left;
+        width:250px;
+        border: 1px;
+        height: 800px;
+        margin-top: 500px;
+        margin-left: 50px;
+
+
+}
+
+.main {
+        background-color: skyblue;
+
+
+        border: 1px;
+        height: 800px;
+        margin-top: 500px;
+        margin-left:300px;
+        margin-right: 50px;
+
+
+}
